@@ -1,0 +1,49 @@
+Datum,Kampagnenname,Produkt,Kanal,Klickrate (%),Teilnahmequote (%),Conversionrate (%)
+2021-01-01,ETF-Offensive,Debitkarte,Website,6.52,5.97,3.61
+2021-01-24,Willkommensbonus Girokonto,Sparbuch,E-Mail,9.21,0.14,0.5
+2021-02-16,Willkommensbonus Girokonto,Wertpapierdepot,Website,4.78,4.62,2.07
+2021-03-11,ETF-Offensive,Sparbuch,In-App Banner,11.55,3.22,3.36
+2021-04-04,Digitale Finanzberatung,Immobilienfinanzierung,Social Media,1.96,6.44,2.32
+2021-04-27,ETF-Offensive,Wertpapierdepot,Social Media,11.05,4.11,0.16
+2021-05-20,Jugendkonto Aktion,Sparbuch,Filiale,10.47,3.56,1.79
+2021-06-12,ETF-Offensive,Girokonto,E-Mail,2.63,6.06,4.76
+2021-07-06,Studienfinanzierung Plus,Konsumkredit,E-Mail,9.23,4.8,3.85
+2021-07-29,Willkommensbonus Girokonto,Immobilienfinanzierung,In-App Banner,11.1,7.76,2.35
+2021-08-21,Sommer-Sparbonus,Debitkarte,Website,5.18,1.99,2.79
+2021-09-14,Studienfinanzierung Plus,Kreditkarte,Website,6.78,2.16,3.57
+2021-10-07,Jugendkonto Aktion,Wertpapierdepot,Social Media,5.87,4.06,2.85
+2021-10-30,Sparen mit Zinsen,Kreditkarte,Social Media,6.36,7.69,0.52
+2021-11-22,Winter-Invest Paket,Kreditkarte,E-Mail,4.68,5.22,0.83
+2021-12-16,Studienfinanzierung Plus,Sparbuch,In-App Banner,9.0,3.59,0.16
+2022-01-08,Sommer-Sparbonus,Wertpapierdepot,E-Mail,0.78,3.65,0.4
+2022-01-31,Baufinanzierungs-Tage,Wertpapierdepot,Social Media,2.01,3.3,4.32
+2022-02-23,Jugendkonto Aktion,Sparbuch,E-Mail,5.1,3.39,1.5
+2022-03-19,Willkommensbonus Girokonto,Sparbuch,Filiale,5.88,4.24,2.59
+2022-04-11,Willkommensbonus Girokonto,Kreditkarte,Website,11.46,6.92,1.77
+2022-05-04,Jugendkonto Aktion,Debitkarte,In-App Banner,4.51,3.01,3.14
+2022-05-28,Cashback Wochen,Girokonto,Filiale,6.16,4.58,4.52
+2022-06-20,ETF-Offensive,Debitkarte,In-App Banner,8.98,7.52,2.73
+2022-07-13,Sommer-Sparbonus,Wertpapierdepot,Website,11.81,3.23,1.04
+2022-08-05,Sparen mit Zinsen,Debitkarte,E-Mail,6.88,2.07,2.57
+2022-08-29,Studienfinanzierung Plus,Immobilienfinanzierung,Filiale,10.93,3.02,3.0
+2022-09-21,Winter-Invest Paket,Wertpapierdepot,E-Mail,4.62,4.52,1.1
+2022-10-14,Jugendkonto Aktion,Girokonto,Website,4.28,3.36,4.15
+2022-11-07,Winter-Invest Paket,Sparbuch,Website,4.17,3.38,0.71
+2022-11-30,Sommer-Sparbonus,Sparbuch,In-App Banner,3.88,6.31,2.46
+2022-12-23,Digitale Finanzberatung,Kreditkarte,E-Mail,5.27,4.5,2.83
+2023-01-15,Winter-Invest Paket,Girokonto,In-App Banner,6.82,5.21,1.35
+2023-02-08,Cashback Wochen,Debitkarte,Filiale,9.43,5.34,0.2
+2023-03-03,Nachhaltige Geldanlage,Debitkarte,Social Media,3.11,5.0,1.54
+2023-03-26,Studienfinanzierung Plus,Wertpapierdepot,In-App Banner,5.58,1.65,1.97
+2023-04-18,Studienfinanzierung Plus,Girokonto,In-App Banner,10.02,7.08,2.48
+2023-05-12,Sommer-Sparbonus,Konsumkredit,Filiale,8.43,3.43,4.58
+2023-06-04,Winter-Invest Paket,Debitkarte,Filiale,9.23,4.93,0.97
+2023-06-27,Jugendkonto Aktion,Sparbuch,E-Mail,9.36,2.24,4.74
+2023-07-21,Winter-Invest Paket,Kreditkarte,Website,9.11,3.85,4.84
+2023-08-13,Digitale Finanzberatung,Wertpapierdepot,E-Mail,11.63,1.08,1.11
+2023-09-05,ETF-Offensive,Wertpapierdepot,Filiale,9.62,7.89,3.31
+2023-09-28,Black Friday Kreditkarte,Immobilienfinanzierung,In-App Banner,7.6,5.1,1.37
+2023-10-22,Cashback Wochen,Konsumkredit,Social Media,2.16,0.79,2.69
+2023-11-14,Baufinanzierungs-Tage,Debitkarte,E-Mail,7.11,3.24,2.82
+2023-12-07,Sommer-Sparbonus,Kreditkarte,In-App Banner,7.62,4.96,0.32
+2023-12-31,Sommer-Sparbonus,Immobilienfinanzierung,Social Media,6.98,5.39,2.75
